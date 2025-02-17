@@ -1,0 +1,17 @@
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/bin/Debug/net8.0/github-activity
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/bin/Debug/net8.0/github-activity.deps.json
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/bin/Debug/net8.0/github-activity.runtimeconfig.json
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/bin/Debug/net8.0/github-activity.dll
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/bin/Debug/net8.0/github-activity.pdb
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/obj/Debug/net8.0/github-activity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/obj/Debug/net8.0/github-activity.AssemblyInfoInputs.cache
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/obj/Debug/net8.0/github-activity.AssemblyInfo.cs
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/obj/Debug/net8.0/github-activity.csproj.CoreCompileInputs.cache
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/obj/Debug/net8.0/github-activity.dll
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/obj/Debug/net8.0/refint/github-activity.dll
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/obj/Debug/net8.0/github-activity.pdb
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/obj/Debug/net8.0/github-activity.genruntimeconfig.cache
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/obj/Debug/net8.0/ref/github-activity.dll
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/obj/Debug/net8.0/github-activity.csproj.AssemblyReference.cache
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/sreelakshmi/2025/roadmap/csharp/github_user_activity/github-activity/obj/Debug/net8.0/github-a.F46B3B64.Up2Date
