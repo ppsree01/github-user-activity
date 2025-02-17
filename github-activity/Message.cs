@@ -27,7 +27,7 @@ internal static class Message {
             foreach(var _event in repos[repo].Keys) {
                 switch(_event) {
                     case "PushEvent":
-                        Console.WriteLine($"Pushed {repos[repo][_event]} to {repo}");
+                        Console.WriteLine($"Pushed {repos[repo][_event]} commits to {repo}");
                         break;
                     case "CommitCommentEvent":
                         Console.WriteLine($"Created commit comment on {repo}");
